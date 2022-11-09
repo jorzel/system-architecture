@@ -1,0 +1,7 @@
+1. The system should be implemented as a Single Page Application on the front-end side
+2. The system is only for authenticated users with open registration
+3. There should be two types of users with different functionalities available:
+  - the editor can create and edit documents and search for documents to view.
+  - the reviewer can search for documents and write a document review.
+4. Search of the documents is crucial feature. The system should implement full-text search, searching by document details and attributes.
+5. The system has the functionality of exporting documents to the external system XYZ, using HTTP Rest API provided by XYZ.
